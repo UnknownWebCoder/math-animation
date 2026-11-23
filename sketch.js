@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-    background(20, 25, 45);         // Clears the previous frame
+    background(20, 25, 45);
 
     // Moves the origin to the center of the canvas
     translate(width / 2, height / 2);
